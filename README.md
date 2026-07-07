@@ -25,6 +25,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/siddhantkanchanwar/DSA/tree/master/0231-power-of-two) |
+| [1009-complement-of-base-10-integer](https://github.com/siddhantkanchanwar/DSA/tree/master/1009-complement-of-base-10-integer) |
 ## Recursion
 |  |
 | ------- |
