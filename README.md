@@ -46,6 +46,7 @@ A collection of LeetCode questions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/siddhantkanchanwar/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/siddhantkanchanwar/DSA/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/siddhantkanchanwar/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0485-max-consecutive-ones](https://github.com/siddhantkanchanwar/DSA/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/siddhantkanchanwar/DSA/tree/master/0704-binary-search) |
 | [1470-shuffle-the-array](https://github.com/siddhantkanchanwar/DSA/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/siddhantkanchanwar/DSA/tree/master/1929-concatenation-of-array) |
