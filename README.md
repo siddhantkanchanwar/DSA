@@ -14,6 +14,7 @@ A collection of LeetCode questions
 | [0258-add-digits](https://github.com/siddhantkanchanwar/DSA/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/siddhantkanchanwar/DSA/tree/master/0292-nim-game) |
 | [2769-find-the-maximum-achievable-number](https://github.com/siddhantkanchanwar/DSA/tree/master/2769-find-the-maximum-achievable-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/siddhantkanchanwar/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/siddhantkanchanwar/DSA/tree/master/0258-add-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/siddhantkanchanwar/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
 | ------- |
