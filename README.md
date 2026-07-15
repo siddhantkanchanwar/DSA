@@ -47,6 +47,7 @@ A collection of LeetCode questions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/siddhantkanchanwar/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/siddhantkanchanwar/DSA/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/siddhantkanchanwar/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0217-contains-duplicate](https://github.com/siddhantkanchanwar/DSA/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/siddhantkanchanwar/DSA/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/siddhantkanchanwar/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/siddhantkanchanwar/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -60,4 +61,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/siddhantkanchanwar/DSA/tree/master/0292-nim-game) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/siddhantkanchanwar/DSA/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/siddhantkanchanwar/DSA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
