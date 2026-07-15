@@ -48,6 +48,7 @@ A collection of LeetCode questions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/siddhantkanchanwar/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/siddhantkanchanwar/DSA/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/siddhantkanchanwar/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/siddhantkanchanwar/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/siddhantkanchanwar/DSA/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/siddhantkanchanwar/DSA/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/siddhantkanchanwar/DSA/tree/master/0704-binary-search) |
@@ -66,15 +67,25 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/siddhantkanchanwar/DSA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/siddhantkanchanwar/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/siddhantkanchanwar/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/siddhantkanchanwar/DSA/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/siddhantkanchanwar/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/siddhantkanchanwar/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/siddhantkanchanwar/DSA/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/siddhantkanchanwar/DSA/tree/master/0242-valid-anagram) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/siddhantkanchanwar/DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/siddhantkanchanwar/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
