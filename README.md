@@ -53,6 +53,7 @@ A collection of LeetCode questions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/siddhantkanchanwar/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/siddhantkanchanwar/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/siddhantkanchanwar/DSA/tree/master/0217-contains-duplicate) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/siddhantkanchanwar/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/siddhantkanchanwar/DSA/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/siddhantkanchanwar/DSA/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/siddhantkanchanwar/DSA/tree/master/0704-binary-search) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions
 | [0169-majority-element](https://github.com/siddhantkanchanwar/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/siddhantkanchanwar/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/siddhantkanchanwar/DSA/tree/master/0242-valid-anagram) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/siddhantkanchanwar/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/siddhantkanchanwar/DSA/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
