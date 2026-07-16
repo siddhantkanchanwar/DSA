@@ -21,6 +21,7 @@ A collection of LeetCode questions
 | ------- |
 | [0258-add-digits](https://github.com/siddhantkanchanwar/DSA/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/siddhantkanchanwar/DSA/tree/master/1929-concatenation-of-array) |
+| [3925-concatenate-array-with-reverse](https://github.com/siddhantkanchanwar/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions
 | [1470-shuffle-the-array](https://github.com/siddhantkanchanwar/DSA/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/siddhantkanchanwar/DSA/tree/master/1929-concatenation-of-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/siddhantkanchanwar/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3925-concatenate-array-with-reverse](https://github.com/siddhantkanchanwar/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Brainteaser
 |  |
 | ------- |
