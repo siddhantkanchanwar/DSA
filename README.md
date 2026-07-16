@@ -83,6 +83,7 @@ A collection of LeetCode questions
 | [0242-valid-anagram](https://github.com/siddhantkanchanwar/DSA/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/siddhantkanchanwar/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/siddhantkanchanwar/DSA/tree/master/0645-set-mismatch) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/siddhantkanchanwar/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/siddhantkanchanwar/DSA/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/siddhantkanchanwar/DSA/tree/master/0242-valid-anagram) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/siddhantkanchanwar/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Divide and Conquer
 |  |
 | ------- |
