@@ -4,8 +4,11 @@ public:
         if(arr.size()<k){
             return -1;
         }
-        long long start = *max_element(arr.begin(),arr.end()),end,mid,ans;
+        long long start=0,end,mid,ans;
         for(long long i=0;i<arr.size();i++){
+            if(start<arr[i]){
+                start= arr[i];
+            }
             end += arr[i];
         }
         while(start<=end){
