@@ -49,6 +49,7 @@ A collection of LeetCode questions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/siddhantkanchanwar/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/siddhantkanchanwar/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/siddhantkanchanwar/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/siddhantkanchanwar/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Array
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions
 | [0645-set-mismatch](https://github.com/siddhantkanchanwar/DSA/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/siddhantkanchanwar/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/siddhantkanchanwar/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/siddhantkanchanwar/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1470-shuffle-the-array](https://github.com/siddhantkanchanwar/DSA/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/siddhantkanchanwar/DSA/tree/master/1929-concatenation-of-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/siddhantkanchanwar/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
