@@ -68,6 +68,7 @@ A collection of LeetCode questions
 | [0704-binary-search](https://github.com/siddhantkanchanwar/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/siddhantkanchanwar/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/siddhantkanchanwar/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/siddhantkanchanwar/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/siddhantkanchanwar/DSA/tree/master/1470-shuffle-the-array) |
 | [1920-build-array-from-permutation](https://github.com/siddhantkanchanwar/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/siddhantkanchanwar/DSA/tree/master/1929-concatenation-of-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions
 | [0242-valid-anagram](https://github.com/siddhantkanchanwar/DSA/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/siddhantkanchanwar/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/siddhantkanchanwar/DSA/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/siddhantkanchanwar/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/siddhantkanchanwar/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/siddhantkanchanwar/DSA/tree/master/3945-digit-frequency-score) |
 ## Sorting
@@ -99,6 +101,7 @@ A collection of LeetCode questions
 | [0217-contains-duplicate](https://github.com/siddhantkanchanwar/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/siddhantkanchanwar/DSA/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/siddhantkanchanwar/DSA/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/siddhantkanchanwar/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
 | ------- |
@@ -114,4 +117,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/siddhantkanchanwar/DSA/tree/master/0169-majority-element) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/siddhantkanchanwar/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
