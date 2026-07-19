@@ -70,6 +70,7 @@ A collection of LeetCode questions
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/siddhantkanchanwar/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/siddhantkanchanwar/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/siddhantkanchanwar/DSA/tree/master/1470-shuffle-the-array) |
+| [1528-shuffle-string](https://github.com/siddhantkanchanwar/DSA/tree/master/1528-shuffle-string) |
 | [1920-build-array-from-permutation](https://github.com/siddhantkanchanwar/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/siddhantkanchanwar/DSA/tree/master/1929-concatenation-of-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/siddhantkanchanwar/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions
 | ------- |
 | [0242-valid-anagram](https://github.com/siddhantkanchanwar/DSA/tree/master/0242-valid-anagram) |
 | [1108-defanging-an-ip-address](https://github.com/siddhantkanchanwar/DSA/tree/master/1108-defanging-an-ip-address) |
+| [1528-shuffle-string](https://github.com/siddhantkanchanwar/DSA/tree/master/1528-shuffle-string) |
 | [3110-score-of-a-string](https://github.com/siddhantkanchanwar/DSA/tree/master/3110-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/siddhantkanchanwar/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Divide and Conquer
