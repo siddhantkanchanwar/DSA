@@ -13,6 +13,7 @@ A collection of LeetCode questions
 | [0231-power-of-two](https://github.com/siddhantkanchanwar/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/siddhantkanchanwar/DSA/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/siddhantkanchanwar/DSA/tree/master/0292-nim-game) |
+| [2235-add-two-integers](https://github.com/siddhantkanchanwar/DSA/tree/master/2235-add-two-integers) |
 | [2769-find-the-maximum-achievable-number](https://github.com/siddhantkanchanwar/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/siddhantkanchanwar/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/siddhantkanchanwar/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
