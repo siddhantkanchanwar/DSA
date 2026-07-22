@@ -72,6 +72,7 @@ A collection of LeetCode questions
 | [0852-peak-index-in-a-mountain-array](https://github.com/siddhantkanchanwar/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/siddhantkanchanwar/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/siddhantkanchanwar/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/siddhantkanchanwar/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/siddhantkanchanwar/DSA/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/siddhantkanchanwar/DSA/tree/master/1528-shuffle-string) |
 | [1920-build-array-from-permutation](https://github.com/siddhantkanchanwar/DSA/tree/master/1920-build-array-from-permutation) |
