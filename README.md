@@ -32,6 +32,7 @@ A collection of LeetCode questions
 | [0412-fizz-buzz](https://github.com/siddhantkanchanwar/DSA/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/siddhantkanchanwar/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/siddhantkanchanwar/DSA/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/siddhantkanchanwar/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3925-concatenate-array-with-reverse](https://github.com/siddhantkanchanwar/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions
 | [1528-shuffle-string](https://github.com/siddhantkanchanwar/DSA/tree/master/1528-shuffle-string) |
 | [1920-build-array-from-permutation](https://github.com/siddhantkanchanwar/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/siddhantkanchanwar/DSA/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/siddhantkanchanwar/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/siddhantkanchanwar/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3925-concatenate-array-with-reverse](https://github.com/siddhantkanchanwar/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Brainteaser
@@ -122,6 +124,7 @@ A collection of LeetCode questions
 | [0412-fizz-buzz](https://github.com/siddhantkanchanwar/DSA/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/siddhantkanchanwar/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/siddhantkanchanwar/DSA/tree/master/1528-shuffle-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/siddhantkanchanwar/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/siddhantkanchanwar/DSA/tree/master/3110-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/siddhantkanchanwar/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Divide and Conquer
