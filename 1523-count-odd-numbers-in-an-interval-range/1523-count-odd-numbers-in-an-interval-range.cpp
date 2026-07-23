@@ -1,12 +1,11 @@
 class Solution {
 public:
-    long long countOdds(long long low, long long high) {
-        long long count=0;
-        for(long long i=low;i<=high;i++){
-            if(i%2!=0){
-                count++;
-            }
+    int countOdds(int low, int high) {
+        if(high%2==0 && low%2==0){
+            return (high-low)/2;
         }
-        return count;
+        else{
+            return (high-low)/2+1;
+        }
     }
 };
