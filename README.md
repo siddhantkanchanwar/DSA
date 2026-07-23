@@ -117,6 +117,7 @@ A collection of LeetCode questions
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/siddhantkanchanwar/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/siddhantkanchanwar/DSA/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/siddhantkanchanwar/DSA/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/siddhantkanchanwar/DSA/tree/master/1108-defanging-an-ip-address) |
@@ -140,4 +141,8 @@ A collection of LeetCode questions
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddhantkanchanwar/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1025-divisor-game](https://github.com/siddhantkanchanwar/DSA/tree/master/1025-divisor-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/siddhantkanchanwar/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
