@@ -1,8 +1,8 @@
 class Solution {
 public:
-    int countOdds(int low, int high) {
+    long long countOdds(long long low, long long high) {
         long long count=0;
-        for(int i=low;i<=high;i++){
+        for(long long i=low;i<=high;i++){
             if(i%2!=0){
                 count++;
             }
