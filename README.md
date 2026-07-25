@@ -21,6 +21,7 @@ A collection of LeetCode questions
 | [2469-convert-the-temperature](https://github.com/siddhantkanchanwar/DSA/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/siddhantkanchanwar/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/siddhantkanchanwar/DSA/tree/master/2769-find-the-maximum-achievable-number) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/siddhantkanchanwar/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/siddhantkanchanwar/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/siddhantkanchanwar/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/siddhantkanchanwar/DSA/tree/master/3783-mirror-distance-of-an-integer) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/siddhantkanchanwar/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/siddhantkanchanwar/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/siddhantkanchanwar/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/siddhantkanchanwar/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/siddhantkanchanwar/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/siddhantkanchanwar/DSA/tree/master/3668-restore-finishing-order) |
 | [3925-concatenate-array-with-reverse](https://github.com/siddhantkanchanwar/DSA/tree/master/3925-concatenate-array-with-reverse) |
