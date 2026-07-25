@@ -24,6 +24,7 @@ A collection of LeetCode questions
 | [2769-find-the-maximum-achievable-number](https://github.com/siddhantkanchanwar/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/siddhantkanchanwar/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/siddhantkanchanwar/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3536-maximum-product-of-two-digits](https://github.com/siddhantkanchanwar/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/siddhantkanchanwar/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/siddhantkanchanwar/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/siddhantkanchanwar/DSA/tree/master/3945-digit-frequency-score) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions
 | [0645-set-mismatch](https://github.com/siddhantkanchanwar/DSA/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/siddhantkanchanwar/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/siddhantkanchanwar/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/siddhantkanchanwar/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
