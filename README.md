@@ -87,6 +87,7 @@ A collection of LeetCode questions
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/siddhantkanchanwar/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/siddhantkanchanwar/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/siddhantkanchanwar/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddhantkanchanwar/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/siddhantkanchanwar/DSA/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/siddhantkanchanwar/DSA/tree/master/1528-shuffle-string) |
 | [1920-build-array-from-permutation](https://github.com/siddhantkanchanwar/DSA/tree/master/1920-build-array-from-permutation) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions
 | [0268-missing-number](https://github.com/siddhantkanchanwar/DSA/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/siddhantkanchanwar/DSA/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/siddhantkanchanwar/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddhantkanchanwar/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/siddhantkanchanwar/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/siddhantkanchanwar/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## String
@@ -166,4 +168,8 @@ A collection of LeetCode questions
 | ------- |
 | [0125-valid-palindrome](https://github.com/siddhantkanchanwar/DSA/tree/master/0125-valid-palindrome) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/siddhantkanchanwar/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddhantkanchanwar/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
