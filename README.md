@@ -23,6 +23,7 @@ A collection of LeetCode questions
 | [2469-convert-the-temperature](https://github.com/siddhantkanchanwar/DSA/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/siddhantkanchanwar/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/siddhantkanchanwar/DSA/tree/master/2769-find-the-maximum-achievable-number) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/siddhantkanchanwar/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/siddhantkanchanwar/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/siddhantkanchanwar/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/siddhantkanchanwar/DSA/tree/master/3536-maximum-product-of-two-digits) |
