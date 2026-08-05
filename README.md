@@ -99,6 +99,7 @@ A collection of LeetCode questions
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/siddhantkanchanwar/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/siddhantkanchanwar/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/siddhantkanchanwar/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2942-find-words-containing-character](https://github.com/siddhantkanchanwar/DSA/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/siddhantkanchanwar/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/siddhantkanchanwar/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/siddhantkanchanwar/DSA/tree/master/3668-restore-finishing-order) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions
 | [1108-defanging-an-ip-address](https://github.com/siddhantkanchanwar/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/siddhantkanchanwar/DSA/tree/master/1528-shuffle-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/siddhantkanchanwar/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2942-find-words-containing-character](https://github.com/siddhantkanchanwar/DSA/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/siddhantkanchanwar/DSA/tree/master/3110-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/siddhantkanchanwar/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Divide and Conquer
