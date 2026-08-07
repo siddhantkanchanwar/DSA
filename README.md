@@ -10,6 +10,7 @@ A collection of LeetCode questions
 | [0009-palindrome-number](https://github.com/siddhantkanchanwar/DSA/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/siddhantkanchanwar/DSA/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/siddhantkanchanwar/DSA/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/siddhantkanchanwar/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/siddhantkanchanwar/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/siddhantkanchanwar/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/siddhantkanchanwar/DSA/tree/master/0268-missing-number) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddhantkanchanwar/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/siddhantkanchanwar/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/siddhantkanchanwar/DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/siddhantkanchanwar/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/siddhantkanchanwar/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/siddhantkanchanwar/DSA/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/siddhantkanchanwar/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/siddhantkanchanwar/DSA/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/siddhantkanchanwar/DSA/tree/master/0189-rotate-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/siddhantkanchanwar/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Heap (Priority Queue)
 |  |
