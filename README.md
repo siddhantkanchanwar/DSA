@@ -52,6 +52,7 @@ A collection of LeetCode questions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/siddhantkanchanwar/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/siddhantkanchanwar/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/siddhantkanchanwar/DSA/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/siddhantkanchanwar/DSA/tree/master/0645-set-mismatch) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions
 | [0035-search-insert-position](https://github.com/siddhantkanchanwar/DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/siddhantkanchanwar/DSA/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddhantkanchanwar/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/siddhantkanchanwar/DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/siddhantkanchanwar/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/siddhantkanchanwar/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/siddhantkanchanwar/DSA/tree/master/0189-rotate-array) |
