@@ -20,6 +20,7 @@ A collection of LeetCode questions
 | [0877-stone-game](https://github.com/siddhantkanchanwar/DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/siddhantkanchanwar/DSA/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/siddhantkanchanwar/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/siddhantkanchanwar/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/siddhantkanchanwar/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/siddhantkanchanwar/DSA/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/siddhantkanchanwar/DSA/tree/master/2469-convert-the-temperature) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions
 | [0852-peak-index-in-a-mountain-array](https://github.com/siddhantkanchanwar/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/siddhantkanchanwar/DSA/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/siddhantkanchanwar/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/siddhantkanchanwar/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/siddhantkanchanwar/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/siddhantkanchanwar/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddhantkanchanwar/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
