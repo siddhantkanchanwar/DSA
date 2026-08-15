@@ -8,6 +8,7 @@ A collection of LeetCode questions
 | ------- |
 | [0007-reverse-integer](https://github.com/siddhantkanchanwar/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/siddhantkanchanwar/DSA/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/siddhantkanchanwar/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/siddhantkanchanwar/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/siddhantkanchanwar/DSA/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/siddhantkanchanwar/DSA/tree/master/0172-factorial-trailing-zeroes) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions
 | [0033-search-in-rotated-sorted-array](https://github.com/siddhantkanchanwar/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/siddhantkanchanwar/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/siddhantkanchanwar/DSA/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/siddhantkanchanwar/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/siddhantkanchanwar/DSA/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddhantkanchanwar/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/siddhantkanchanwar/DSA/tree/master/0136-single-number) |
@@ -224,4 +226,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/siddhantkanchanwar/DSA/tree/master/0509-fibonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/siddhantkanchanwar/DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
