@@ -41,6 +41,7 @@ A collection of LeetCode questions
 | ------- |
 | [0258-add-digits](https://github.com/siddhantkanchanwar/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/siddhantkanchanwar/DSA/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/siddhantkanchanwar/DSA/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/siddhantkanchanwar/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/siddhantkanchanwar/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/siddhantkanchanwar/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions
 | [0645-set-mismatch](https://github.com/siddhantkanchanwar/DSA/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/siddhantkanchanwar/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/siddhantkanchanwar/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/siddhantkanchanwar/DSA/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/siddhantkanchanwar/DSA/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/siddhantkanchanwar/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/siddhantkanchanwar/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -230,4 +232,5 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/siddhantkanchanwar/DSA/tree/master/0048-rotate-image) |
+| [0867-transpose-matrix](https://github.com/siddhantkanchanwar/DSA/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
