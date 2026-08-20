@@ -46,6 +46,7 @@ A collection of LeetCode questions
 | [1929-concatenation-of-array](https://github.com/siddhantkanchanwar/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/siddhantkanchanwar/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/siddhantkanchanwar/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/siddhantkanchanwar/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3701-compute-alternating-sum](https://github.com/siddhantkanchanwar/DSA/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/siddhantkanchanwar/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
@@ -121,6 +122,7 @@ A collection of LeetCode questions
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/siddhantkanchanwar/DSA/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2942-find-words-containing-character](https://github.com/siddhantkanchanwar/DSA/tree/master/2942-find-words-containing-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/siddhantkanchanwar/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/siddhantkanchanwar/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/siddhantkanchanwar/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/siddhantkanchanwar/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/siddhantkanchanwar/DSA/tree/master/3668-restore-finishing-order) |
