@@ -180,6 +180,7 @@ A collection of LeetCode questions
 | [0412-fizz-buzz](https://github.com/siddhantkanchanwar/DSA/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/siddhantkanchanwar/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/siddhantkanchanwar/DSA/tree/master/1528-shuffle-string) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/siddhantkanchanwar/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/siddhantkanchanwar/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/siddhantkanchanwar/DSA/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/siddhantkanchanwar/DSA/tree/master/3110-score-of-a-string) |
@@ -235,4 +236,8 @@ A collection of LeetCode questions
 | ------- |
 | [0048-rotate-image](https://github.com/siddhantkanchanwar/DSA/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/siddhantkanchanwar/DSA/tree/master/0867-transpose-matrix) |
+## Greedy
+|  |
+| ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/siddhantkanchanwar/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 <!---LeetCode Topics End-->
