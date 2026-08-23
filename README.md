@@ -93,6 +93,7 @@ A collection of LeetCode questions
 | [0035-search-insert-position](https://github.com/siddhantkanchanwar/DSA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/siddhantkanchanwar/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/siddhantkanchanwar/DSA/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/siddhantkanchanwar/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddhantkanchanwar/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/siddhantkanchanwar/DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/siddhantkanchanwar/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/siddhantkanchanwar/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddhantkanchanwar/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/siddhantkanchanwar/DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/siddhantkanchanwar/DSA/tree/master/0877-stone-game) |
