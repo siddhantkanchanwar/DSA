@@ -100,6 +100,7 @@ A collection of LeetCode questions
 | [0189-rotate-array](https://github.com/siddhantkanchanwar/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/siddhantkanchanwar/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/siddhantkanchanwar/DSA/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/siddhantkanchanwar/DSA/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/siddhantkanchanwar/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/siddhantkanchanwar/DSA/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/siddhantkanchanwar/DSA/tree/master/0645-set-mismatch) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siddhantkanchanwar/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/siddhantkanchanwar/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/siddhantkanchanwar/DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/siddhantkanchanwar/DSA/tree/master/0283-move-zeroes) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/siddhantkanchanwar/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Heap (Priority Queue)
 |  |
