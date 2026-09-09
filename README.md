@@ -189,6 +189,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/siddhantkanchanwar/DSA/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/siddhantkanchanwar/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/siddhantkanchanwar/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/siddhantkanchanwar/DSA/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/siddhantkanchanwar/DSA/tree/master/0412-fizz-buzz) |
@@ -261,4 +262,12 @@ A collection of LeetCode questions
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/siddhantkanchanwar/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/siddhantkanchanwar/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/siddhantkanchanwar/DSA/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/siddhantkanchanwar/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
