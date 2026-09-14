@@ -17,6 +17,7 @@ A collection of LeetCode questions
 | [0258-add-digits](https://github.com/siddhantkanchanwar/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/siddhantkanchanwar/DSA/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/siddhantkanchanwar/DSA/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/siddhantkanchanwar/DSA/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/siddhantkanchanwar/DSA/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/siddhantkanchanwar/DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/siddhantkanchanwar/DSA/tree/master/0877-stone-game) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/siddhantkanchanwar/DSA/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/siddhantkanchanwar/DSA/tree/master/0319-bulb-switcher) |
 | [1025-divisor-game](https://github.com/siddhantkanchanwar/DSA/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
