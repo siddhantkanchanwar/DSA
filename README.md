@@ -298,4 +298,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/siddhantkanchanwar/DSA/tree/master/0069-sqrtx) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/siddhantkanchanwar/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
