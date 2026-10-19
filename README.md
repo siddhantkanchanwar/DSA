@@ -133,6 +133,7 @@ A collection of LeetCode questions
 | [2161-partition-array-according-to-given-pivot](https://github.com/siddhantkanchanwar/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/siddhantkanchanwar/DSA/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2942-find-words-containing-character](https://github.com/siddhantkanchanwar/DSA/tree/master/2942-find-words-containing-character) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/siddhantkanchanwar/DSA/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/siddhantkanchanwar/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/siddhantkanchanwar/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/siddhantkanchanwar/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/siddhantkanchanwar/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/siddhantkanchanwar/DSA/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/siddhantkanchanwar/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/siddhantkanchanwar/DSA/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/siddhantkanchanwar/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3668-restore-finishing-order](https://github.com/siddhantkanchanwar/DSA/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/siddhantkanchanwar/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
