@@ -19,6 +19,7 @@ A collection of LeetCode questions
 | [0292-nim-game](https://github.com/siddhantkanchanwar/DSA/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/siddhantkanchanwar/DSA/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/siddhantkanchanwar/DSA/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/siddhantkanchanwar/DSA/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/siddhantkanchanwar/DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/siddhantkanchanwar/DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/siddhantkanchanwar/DSA/tree/master/1025-divisor-game) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/siddhantkanchanwar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/siddhantkanchanwar/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/siddhantkanchanwar/DSA/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/siddhantkanchanwar/DSA/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/siddhantkanchanwar/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/siddhantkanchanwar/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/siddhantkanchanwar/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
