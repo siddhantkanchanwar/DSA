@@ -303,6 +303,7 @@ A collection of LeetCode questions
 | [1587-bank-account-summary-ii](https://github.com/siddhantkanchanwar/DSA/tree/master/1587-bank-account-summary-ii) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/siddhantkanchanwar/DSA/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/siddhantkanchanwar/DSA/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/siddhantkanchanwar/DSA/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/siddhantkanchanwar/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 ## Newton's Method
 |  |
